@@ -27,6 +27,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   LinkedIn: https:/
                   -!v|`              _?v!`                     
 ```
 ```console
-$ stats 
-
 ```
